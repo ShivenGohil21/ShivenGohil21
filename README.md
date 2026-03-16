@@ -1,4 +1,3 @@
-## Hi there 👋
 <h1 align="center">Hi 👋, I'm Shiven Gohil</h1>
 <h3 align="center">Full Stack Web Developer | MERN Stack | UI/UX Designer</h3>
 
