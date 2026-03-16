@@ -18,7 +18,6 @@
 ## Tech Stack
 
 ###  Frontend
-
 * HTML
 * CSS
 * JavaScript
@@ -26,13 +25,11 @@
 * Next.js
 
 ###  Backend
-
 * Node.js
 * Express.js
 * Django
 
 ###  Database
-
 * MongoDB
 * Supabase
 
@@ -43,7 +40,6 @@
 ---
 
 ##  Tools
-
 * Git
 * GitHub
 * VS Code
