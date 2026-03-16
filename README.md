@@ -8,7 +8,7 @@
 
 *  Full Stack Web Developer
 * killed in **MERN Stack Development**
-*  Currently learning **Next.js, Supabase & Django**
+*  Currently learning **Next.js & Supabase **
 *  UI/UX Designer using **Figma**
 *  Completed **Web Development Internship**
 *  Open to **collaboration and open-source projects**
