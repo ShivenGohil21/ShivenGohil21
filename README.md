@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Shiven Gohil</h1>
+<h1 align="center">Hi , I'm Shiven Gohil</h1>
 <h3 align="center">Full Stack Web Developer | MERN Stack | UI/UX Designer</h3>
 
 ---
@@ -38,7 +38,7 @@
 
 ---
 
-## 🚀 Languages and Tools
+##  Languages and Tools
 
 <p align="left">
 
@@ -93,4 +93,4 @@
 
 ---
 
-⭐ From **ShivenGohil21**
+ From **ShivenGohil21**
