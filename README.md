@@ -1,8 +1,8 @@
-# 💫 About Me
+
 
 <h1 align="center">Hi, I'm Shiven Gohil</h1>
 
-<h3 align="center">Full Stack Developer | MERN Stack | Next.js | UI/UX Design</h3>
+<h3 align="center">Full Stack Developer | MERN Stack | Supabase | Django | ThreeJS | UI/UX Design</h3>
 
 <p align="center">
   Building modern web applications with a focus on functionality, performance, and user experience.
@@ -13,7 +13,7 @@
 ## About Me
 
 <p>
-I'm a Full Stack Developer focused on building modern, scalable, and user-friendly web applications. I work primarily with React.js, Next.js, Node.js, Express.js, and MongoDB, with hands-on experience developing frontend interfaces, backend APIs, and database-driven applications.
+I'm a Full Stack Developer focused on building modern, scalable, and user-friendly web applications. I work primarily with React.js, ThreeJS, Node.js, Express.js, and MongoDB, with hands-on experience developing frontend interfaces, backend APIs, and database-driven applications.
 </p>
 
 <p>
